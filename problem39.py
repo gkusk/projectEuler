@@ -5,7 +5,6 @@ Created on Sat Sep 27 10:22:10 2014
 @author: Yusuke
 """
 
-from sympy import factorint
 import math
 
 def is_square(num):
